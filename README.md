@@ -1,2 +1,2 @@
 # images
-images pour sites
+Dépot d'images pour sites SIG de Rennes Métropole
